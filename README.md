@@ -21,7 +21,7 @@ This project provides a command-line application that translates text from one l
 
 To install the necessary libraries, you can use pip:
 
-##Upgrades
+## Upgrades
 
 I will add a translation history that will return as a json file
 
