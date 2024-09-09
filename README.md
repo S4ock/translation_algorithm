@@ -17,13 +17,13 @@ This project provides a command-line application that translates text from one l
 - `langdetect`
 - `pyttsx3`
 
-## Installation
-
-To install the necessary libraries, you can use pip:
-
 ## Upgrades
 
 I will add a translation history that will return as a json file
+
+## Installation
+
+To install the necessary libraries, you can use pip:
 
 
 ```bash
