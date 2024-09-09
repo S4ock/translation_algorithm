@@ -25,6 +25,7 @@ To install the necessary libraries, you can use pip:
 
 I will add a translation history that will return as a json file
 
+
 ```bash
 pip install googletrans==4.0.0-rc1 langdetect pyttsx3
 ```
